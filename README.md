@@ -28,7 +28,7 @@ Python - GUI Programming (Tkinter) _ (PREPROCESSING DATA - Evaulation DATA- Clas
 ## About The Project
 
 
- <img src="https://i.imgur.com/8j8AtJ8.png" alt="Logo" width="900" height="500">
+ <img src="https://i.imgur.com/JI5s5tK.png" alt="Logo" width="900" height="500">
  <br/>
  <br/>
  JI5s5tK
