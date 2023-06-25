@@ -31,9 +31,7 @@ Python - GUI Programming (Tkinter) _ (PREPROCESSING DATA - Evaulation DATA- Clas
  <img src="https://i.imgur.com/JI5s5tK.png" alt="Logo" width="900" height="500">
  <br/>
  <br/>
- JI5s5tK
- 1jCshqS
- w9os0Co
+ 
 <p >
  <img src="https://i.imgur.com/unJSmVh.png" alt="project(Coise-User)" width="162" height="150">
  <img src="https://i.imgur.com/lVoSGB0.png" alt="project(Admin)" width="162" height="150">
@@ -43,11 +41,11 @@ Python - GUI Programming (Tkinter) _ (PREPROCESSING DATA - Evaulation DATA- Clas
 
 </p>
 
-Machine learning is a branch of artificial intelligence (AI) and computer science which focuses on the use of data and algorithms to imitate the way that humans learn, gradually improving its accuracy.
+* Machine learning is a branch of artificial intelligence (AI) and computer science which focuses on the use of data and algorithms to imitate the way that humans learn, gradually improving its accuracy.
 
-It is a data mining technique that transforms raw data into an understandable format. Raw data(real world data) is always incomplete and that data cannot be sent through a model. That would cause certain errors. That is why we need to preprocess data before sending through a model,can help you to score a higher accuracy.
+* It is a data mining technique that transforms raw data into an understandable format. Raw data(real world data) is always incomplete and that data cannot be sent through a model. That would cause certain errors. That is why we need to preprocess data before sending through a model,can help you to score a higher accuracy.
 
-tkinter:- t is a standard Python interface to the Tk GUI toolkit shipped with Python. Python with tkinter is the fastest and easiest way to create the ...
+* tkinter:- t is a standard Python interface to the Tk GUI toolkit shipped with Python. Python with tkinter is the fastest and easiest way to create the ...
 
 
 
