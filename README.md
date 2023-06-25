@@ -28,7 +28,7 @@ Python - GUI Programming (Tkinter) _ (PREPROCESSING DATA - Evaulation DATA- Clas
 ## About The Project
 
 
- <img src="https://i.imgur.com/3Olycdq.png" alt="Logo" width="900" height="500">
+ <img src="https://i.imgur.com/5zNIZ9C.png" alt="Logo" width="900" height="500">
  <br/>
  <br/>
 
@@ -41,7 +41,6 @@ Python - GUI Programming (Tkinter) _ (PREPROCESSING DATA - Evaulation DATA- Clas
 
 </p>
 
-١٦‏/٠٥‏/٢٠٢٣ — I
 Machine learning is a branch of artificial intelligence (AI) and computer science which focuses on the use of data and algorithms to imitate the way that humans learn, gradually improving its accuracy.
 
 It is a data mining technique that transforms raw data into an understandable format. Raw data(real world data) is always incomplete and that data cannot be sent through a model. That would cause certain errors. That is why we need to preprocess data before sending through a model,can help you to score a higher accuracy.
