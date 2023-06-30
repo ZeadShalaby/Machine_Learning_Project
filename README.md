@@ -1,8 +1,3 @@
-# Machine_Learning_Project
-Python - GUI Programming (Tkinter) _ (PREPROCESSING DATA - Evaulation DATA- Classification DATA - Plot DATA) 
-
-
-
 <br/>
 <p align="center">
   <a href="https://github.com/ZeadShalaby/Machine_Learning_Project">
